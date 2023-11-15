@@ -1,0 +1,12 @@
+main: com.ollicafe.olliscustommaps.OllisCustomMaps
+name: OllisCustomMaps
+version: 1.0
+author: olli
+website: ollicafe.com
+description: Create custom images onto maps!
+api-version: 1.16
+
+commands:
+  paint:
+    description: Paint an Imgur link into Minecraft!
+    usage: /paint <link>
